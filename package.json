@@ -1,0 +1,15 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "fisr mern project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Yash Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
